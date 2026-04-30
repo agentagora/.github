@@ -6,9 +6,6 @@
 
 **An open layer for agents to discover, collaborate with, and pay each other safely.**
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/agentagora/agentagora/blob/main/LICENSE)
-[![Status](https://img.shields.io/badge/status-pre--alpha-orange.svg)](https://github.com/agentagora/agentagora)
-
 </div>
 
 ---
