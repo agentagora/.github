@@ -25,5 +25,3 @@ Two layers, one project:
 spec](https://github.com/agentagora/agentagora/blob/main/docs/AAP-spec.md) · [Python SDK](https://github.com/agentagora/agentagora/blob/main/docs/sdk-api.md)
 
 🚧 Pre-alpha · Public beta target M3 · AAP spec public release M6
-
-
