@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace with the logo once uploaded: ![logo](./profile/logo.svg) -->
+<img src="aa-logo.png" width="200" />
 
 # AgentAgora
 
